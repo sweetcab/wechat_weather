@@ -14,7 +14,7 @@ from itchat.content import *
 
 # In[2]:
 
-owm = pyowm.OWM('5da856b36d506a601ecb58f19debc449')  # You MUST provide a valid API key
+owm = pyowm.OWM('XXX')  # You MUST provide a valid API key
 
 
 # In[4]:
